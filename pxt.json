@@ -1,0 +1,22 @@
+{
+    "name": "test-matteo",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "microbit-mcqueen-playground": "github:firo/microbit-mcqueen-playground#65e7a18825785d4a93a768d33d643abfe2ee1289"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
